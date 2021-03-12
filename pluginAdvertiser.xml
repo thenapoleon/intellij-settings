@@ -4322,6 +4322,11 @@
                       <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
                     </value>
                   </entry>
+                  <entry key="CypressConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Cypress" pluginName="Cypress Support" pluginId="me.mbolotov.cypress" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
