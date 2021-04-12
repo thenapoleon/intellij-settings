@@ -102,6 +102,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, RVM: jruby-9.2.9.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-9.2.9.0/gems/bundler-1.17.3/man" />
+      </excluded>
+    </library>
     <library name="bundler (v2.2.16, RVM: jruby-9.2.9.0 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
