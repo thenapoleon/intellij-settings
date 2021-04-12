@@ -1671,15 +1671,15 @@
     </library>
     <library name="RVM: jruby-1.7.27 [global] facet library">
       <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs19" />
         <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.27/lib/ruby/1.9" />
         <root url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.27/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs19" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs19" />
         <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.27/lib/ruby/1.9" />
         <root url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.27/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs19" />
       </SOURCES>
     </library>
     <library name="RVM: jruby-1.7.27 facet library">
