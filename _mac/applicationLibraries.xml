@@ -1049,6 +1049,19 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" />
       </SOURCES>
     </library>
+    <library name="RVM: jruby-9.2.9.0 facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.2.9.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.2.9.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-9.2.9.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-9.2.9.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.2.8, RVM: jruby-9.2.9.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
