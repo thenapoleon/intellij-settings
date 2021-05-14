@@ -2651,28 +2651,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.4.0/references" />
       </excluded>
     </library>
-    <library name="json (v2.5.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/json/2.5.1" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/tests" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/json/2.5.1" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/tests" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/json-2.5.1/tests" />
-      </excluded>
-    </library>
     <library name="json_builder (v3.1.7, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3411,25 +3389,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="openssl (v2.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/openssl/2.2.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/openssl-2.2.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/openssl-2.2.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs25/openssl/2.2.0" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/openssl-2.2.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/openssl-2.2.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/openssl-2.2.0/ext" />
-      </excluded>
     </library>
     <library name="os (v1.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
