@@ -1,5 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="GotoUrlAction" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
