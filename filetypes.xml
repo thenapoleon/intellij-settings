@@ -10,6 +10,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="gml" type="XML" />
       <mapping pattern=".rc" type="YAML" />
+      <mapping pattern=".rvmc" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
