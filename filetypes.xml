@@ -9,6 +9,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".vercelignore" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="gml" type="XML" />
       <mapping pattern=".caas" type="YAML" />
