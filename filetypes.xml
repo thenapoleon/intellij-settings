@@ -4,6 +4,7 @@
       <mapping pattern="user-service" type="AUTO_DETECTED" />
       <mapping ext="jenkins" type="Groovy" />
       <mapping pattern=".rvmconfig" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
