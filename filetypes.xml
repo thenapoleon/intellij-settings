@@ -12,6 +12,11 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".vercelignore" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="gml" type="XML" />
       <mapping pattern=".caas" type="YAML" />
       <mapping pattern=".rvmc" type="YAML" />
