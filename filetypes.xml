@@ -29,6 +29,9 @@
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
+      <removed_mapping pattern=".vercelignore" approved="true" type="Vercel File" />
     </extensionMap>
   </component>
 </application>
