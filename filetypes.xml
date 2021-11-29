@@ -5,6 +5,7 @@
       <mapping pattern="user-service" type="AUTO_DETECTED" />
       <mapping ext="jenkins" type="Groovy" />
       <mapping pattern=".rvmconfig" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,7 +14,6 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".vercelignore" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
@@ -25,6 +25,7 @@
       <mapping pattern=".rc" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="XML" />
+      <removed_mapping ext="graphql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
