@@ -1,0 +1,12 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/workspace/caas/projects/GW/warhammer-global-league/app/cypress/integration/globalrankings/authentication/authentication-flows.spec.js" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="260" y="112" width="1400" height="1000" />
+    </option>
+  </component>
+</application>
